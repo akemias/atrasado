@@ -1,0 +1,10 @@
+.retangulo{
+    background-color: blue;
+    /*display: flex;*/
+    width: 80 px;
+    height: 100px;
+}
+
+#foto1{
+    background-color: blueviolet;
+}
